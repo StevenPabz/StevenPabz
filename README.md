@@ -6,10 +6,6 @@
 
 - **Operating System**
 
-  <a href="https://www.gnu.org/gnu/linux-and-gnu.en.html">     
-    <img align="left" alt="GNU/Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  </a>
-
   <a href="https://archlinux.org/">
     <img align="left" alt="Arch Linux" width="26px" src="https://www.archlinux.org/logos/archlinux-icon-crystal-64.svg">
   </a>
@@ -18,6 +14,12 @@
     <img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   </a>
 
+<!--
+  <a href="https://www.gnu.org/gnu/linux-and-gnu.en.html">     
+    <img align="left" alt="GNU/Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  </a>
+-->
+
 <br>
 
 - **Languages**
@@ -25,11 +27,11 @@
   <a href="https://www.python.org/">
     <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </a>
-
+<!--
   <a href="https://www.java.com/en/">
     <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   </a>
-
+-->
   <a href="https://www.cprogramming.com/">
     <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   </a>
@@ -51,16 +53,16 @@
   </a>
     
   <a href="https://www.gnu.org/software/bash">
-    <img align="left" alt="BASH" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   </a>
 
   <a href="https://www.latex-project.org/">
-    <img align="left" alt="Latex" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+    <img align="left" alt="LaTeX" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
   </a>
 
 <br>
 
-- **Frameworks/Libraries**
+- **Frameworks/Libraries/Databases**
 
   <a href="https://sqlite.org/index.html">
     <img align="left" alt="SQLite" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
@@ -81,11 +83,11 @@
   <a href="https://www.vim.org/">
     <img align="left"alt="Vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
   </a>
-    
+<!--    
   <a href="https://www.markdownguide.org/">
     <img align="left" alt="VSCode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   </a>
-
+-->
   <a href="https://git-scm.com">
     <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </a>
@@ -93,7 +95,7 @@
   <a href="https://github.com/" target="_blank">
     <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   </a>
-
+<!--
   <a href="https://alacritty.org/">
     <img align="left" alt="Alacritty" width="26px" src="https://github.com/alacritty/alacritty/blob/master/extra/logo/alacritty-term%2Bscanlines.svg" />
   </a>
@@ -101,7 +103,7 @@
   <a href="https://wiki.termux.com">
     <img align="left" alt="Terminal Emulator for Android" width="26px" src="https://raw.githubusercontent.com/nihsx/icon/main/tools/terminal-emulator/termux.png"/>
   </a>
-
+-->
 <br>
 <br>
 
