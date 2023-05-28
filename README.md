@@ -1,6 +1,6 @@
 # :hatching_chick: 'Sup Man!
 
-**This is Steve, a Computer Science major who's interested in systems programming and software development.**
+**This is Steve, a Computer Science major who's interested in embedded systems and software development.**
 
 ### Skills
 
