@@ -1,6 +1,6 @@
 # :hatching_chick: 'Sup Man!
 
-This is **Steve Paguio**, a Computer Science major interested in embedded systems and software development.
+I'm **Steve Paguio**, a Computer Science major interested in embedded systems and software development.
 
 <p align="center">
 <a href="https://github.com/steguiosaur">
