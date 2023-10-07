@@ -4,16 +4,16 @@ I'm **Steve Paguio**, a Computer Science major interested in embedded systems an
 
 <p align="center">
 <a href="https://github.com/steguiosaur">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,cmake" />
 </a>
 <a href="https://github.com/steguiosaur">
-    <img src="https://skillicons.dev/icons?i=html,css,bash,latex" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,nodejs" />
 </a>
 <a href="https://github.com/steguiosaur">
-    <img src="https://skillicons.dev/icons?i=linux,neovim,git,github" />
+    <img src="https://skillicons.dev/icons?i=vim,neovim,git,github" />
 </a>
 <a href="https://github.com/steguiosaur">
-    <img src="https://skillicons.dev/icons?i=sqlite,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=linux,latex,bash,sqlite" />
 </a>
 </p>
   
