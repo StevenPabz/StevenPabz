@@ -1,10 +1,10 @@
 # :hatching_chick: 'Sup Man!
 
-I'm **Steve Paguio**, a Computer Science major interested in embedded systems and software development.
+I'm **Steve Paguio Pabular**, a Computer Science major interested in embedded systems and software development.
 
 <p align="center">
 <a href="https://github.com/steguiosaur">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,cmake" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
 </a>
 <a href="https://github.com/steguiosaur">
     <img src="https://skillicons.dev/icons?i=javascript,html,css,nodejs" />
